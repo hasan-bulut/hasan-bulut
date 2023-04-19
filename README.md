@@ -12,7 +12,7 @@ Türkiye'de yazılımda kendini geliştirmeye çalışan Bilişim Öğrencisi.<b
 </div>
 
 <div>
-<h2><strong>Yetenekler</strong></h2>
+<h2><strong>Yeteneklerim</strong></h2>
 <h3>Diller:</h3>
 
 <img src='https://skillicons.dev/icons?i=php,js,html,css,python,dart,cs,go,mysql'>
