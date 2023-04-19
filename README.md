@@ -28,8 +28,8 @@ Türkiye'de yazılımda kendini geliştirmeye çalışan Bilişim Öğrencisi.<b
 
 <div>
 <h2><strong>İstatistiklerim</strong></h2>
-<div>
-<img src='https://github-readme-stats.vercel.app/api?username=hasan-bulut&show_icons=true&theme=gradient&bg_color=0,0077B6,081844&title_color=E1E1FF&icon_color=AAAAAA&text_color=ffffff&custom_title=Github İstatistiklerim'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-bulut&layout=compact&theme=gradient&bg_color=0,0077B6,081844&title_color=E1E1FF&icon_color=AAAAAA&text_color=ffffff&custom_title=En Çok Kullandığım Diller'>
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=hasan-bulut&show_icons=true&theme=gradient&bg_color=0,0077B6,081844&title_color=E1E1FF&icon_color=AAAAAA&text_color=ffffff)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-bulut&layout=compact&theme=gradient&bg_color=0,0077B6,081844&title_color=E1E1FF&icon_color=AAAAAA&text_color=ffffff)
 </div>
