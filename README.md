@@ -1,5 +1,19 @@
-<h1><center>🔥Profilim🔥</center></h1>
-Merhaba ben <strong>Hasan Bulut.</strong><br>
+<div id="header" align="center">
+  <h1><strong>🔥Profilim🔥</strong><br></h1>
+  <div id="badges" align="center">
+    <a href="https://discord.com/users/534471720246050835">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="https://www.youtube.com/@cloyun">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+    <a href="mailto:buluthasan853@gmail.com">
+      <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=hasan-bulut&style=flat-square&color=red" alt=""/>
+</div>
+Merhaba ben <strong>Hasan.</strong><br>
 Türkiye'de yazılımda kendini geliştirmeye çalışan Bilişim Öğrencisi.<br>
 <div>
 <strong>Hakkımda</strong>
