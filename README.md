@@ -4,6 +4,9 @@
     <a href="https://discord.com/users/534471720246050835">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
+    <a href="https://www.linkedin.com/in/hasan-bulut-970bb2273">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
     <a href="https://www.youtube.com/@cloyun">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
