@@ -36,7 +36,7 @@ Türkiye'de yazılımda kendini geliştirmeye çalışan Bilişim Öğrencisi.<b
 
 <h3>Kütüphaneler:</h3>
 
-<img src='https://skillicons.dev/icons?i=nodejs,jquery,flutter,bootstrap'>
+<img src='https://skillicons.dev/icons?i=laravel,nodejs,jquery,flutter,bootstrap,react,vue'>
 
 <h3>Programlar:</h3>
 
