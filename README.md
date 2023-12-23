@@ -32,11 +32,11 @@ Türkiye'de yazılımda kendini geliştirmeye çalışan Bilişim Öğrencisi.<b
 <h2><strong>Yeteneklerim</strong></h2>
 <h3>Diller:</h3>
 
-<img src='https://skillicons.dev/icons?i=php,js,html,css,python,dart,cs,go,mysql'>
+<img src='https://skillicons.dev/icons?i=php,js,html,css,python,dart,c,cpp,cs,go,mysql'>
 
 <h3>Kütüphaneler:</h3>
 
-<img src='https://skillicons.dev/icons?i=laravel,nodejs,jquery,flutter,bootstrap,react,vue'>
+<img src='https://skillicons.dev/icons?i=laravel,nodejs,jquery,flutter,bootstrap,react,vue,net'>
 
 <h3>Programlar:</h3>
 
