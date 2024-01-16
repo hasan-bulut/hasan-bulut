@@ -23,7 +23,7 @@ Türkiye'de yazılımda kendini geliştirmeye çalışan Bilişim Öğrencisi.<b
 <ul>
 <li>PHP dilinde kod yazmayı severim.</li>
 <li>Web ve Mobil uygulama deneyimlerim var.</li>
-<li>4.2k aboneye sahip YouTube kanalımda oyun videoları çekerim.</li>
+<li>4.3k aboneye sahip YouTube kanalımda oyun videoları çekerim.</li>
 <li>Discord'ta büyük bir Minecraft Topluluğum var.</li>
 </ul>
 </div>
