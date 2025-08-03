@@ -23,7 +23,7 @@ Türkiye'de yazılımda kendini geliştirmeye çalışan Bilişim Öğrencisi.<b
 <ul>
 <li>PHP dilinde kod yazmayı severim.</li>
 <li>Web ve Mobil uygulama deneyimlerim var.</li>
-<li>4.7k aboneye sahip YouTube kanalımda oyun videoları çekerim.</li>
+<li>6.1k aboneye sahip YouTube kanalımda oyun videoları çekerim.</li>
 <li>Discord'ta büyük bir Minecraft Topluluğum var.</li>
 </ul>
 </div>
@@ -36,7 +36,7 @@ Türkiye'de yazılımda kendini geliştirmeye çalışan Bilişim Öğrencisi.<b
 
 <h3>Kütüphaneler:</h3>
 
-<img src='https://skillicons.dev/icons?i=laravel,nodejs,jquery,flutter,bootstrap,react,vue,net'>
+<img src='https://skillicons.dev/icons?i=laravel,nodejs,jquery,flutter,bootstrap,react,vue,net,tailwind'>
 
 <h3>Programlar:</h3>
 
